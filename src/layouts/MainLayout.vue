@@ -30,7 +30,7 @@
 }
 
 .main {
-  width: 70%;
+  width: 87%;
   background-color: hsla(0, 0%, 100%, 1);
 }
 </style>
